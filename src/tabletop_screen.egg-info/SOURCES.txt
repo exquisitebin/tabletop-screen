@@ -1,0 +1,9 @@
+.gitignore
+README.md
+pyproject.toml
+src/__init__.py
+src/tabletop_screen.egg-info/PKG-INFO
+src/tabletop_screen.egg-info/SOURCES.txt
+src/tabletop_screen.egg-info/dependency_links.txt
+src/tabletop_screen.egg-info/requires.txt
+src/tabletop_screen.egg-info/top_level.txt

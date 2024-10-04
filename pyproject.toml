@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tabletop-screen"
+authors = [
+    {name = "Tristan Clark", email = "thclark2000@gmail.com"},
+]
+description = "Custom tabletop screen project for tabletop games (e.g. D&D)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+	"rpi_ws281x",
+	"adafruit-circuitpython-neopixel",
+	"adafruit-blinka",
+]
+dynamic = ["version"]
