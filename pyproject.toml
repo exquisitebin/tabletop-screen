@@ -14,5 +14,6 @@ dependencies = [
 	"rpi_ws281x",
 	"adafruit-circuitpython-neopixel",
 	"adafruit-blinka",
+	"Pi5Neo",
 ]
 dynamic = ["version"]
