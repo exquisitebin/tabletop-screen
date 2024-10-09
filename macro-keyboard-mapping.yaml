@@ -47,10 +47,10 @@ layers:
         press: "click"
         cw: "wheeldown"
       - ccw: "shift-wheelup"
-        press: "shift-click"
+        press: "rclick"
         cw: "shift-wheeldown"
       - ccw: "ctrl-minus"
-        press: "ctrl-t"
+        press: "mclick"
         cw: "ctrl-equal"
 
   - buttons:
